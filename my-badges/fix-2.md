@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/c0133e2cd1d7ea601aa76fce732e1d17207e9cb8">c0133e2</a>: fix: update translation files
-- <a href="https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/62babc70c07cd960a3348e7cf221f51d3c0b4f3e">62babc7</a>: fix: remove obsolete files
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/39b08dc04bc1c58584abfa1c34d52942e72830cd">39b08dc</a>: fix: fix README.md
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/6157893ed3f98dbaf4c38e1f28570608f651078f">6157893</a>: fix: fix CODEOWNERS
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

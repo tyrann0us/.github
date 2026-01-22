@@ -4,7 +4,7 @@
 
 Issues:
 
-- <a href="https://github.com/TimPerry/acf-post-type-selector/issues/15">#15</a>: Add for attribut to labels and id attribut to inputs
+- <a href="https://github.com/inpsyde/wp-translation-downloader/issues/33">#33</a>: [Feature Request]: Support deployment/infrastructure-related `composer.json` file
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

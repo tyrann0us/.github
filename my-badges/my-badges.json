@@ -38,14 +38,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/c0133e2cd1d7ea601aa76fce732e1d17207e9cb8\">c0133e2</a>: fix: update translation files\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/62babc70c07cd960a3348e7cf221f51d3c0b4f3e\">62babc7</a>: fix: remove obsolete files",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/39b08dc04bc1c58584abfa1c34d52942e72830cd\">39b08dc</a>: fix: fix README.md\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/6157893ed3f98dbaf4c38e1f28570608f651078f\">6157893</a>: fix: fix CODEOWNERS",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Common/commit/03f22c948ed6131f3f17b768425ee9c74cfa76a5\">03f22c9</a>: chore: update Psalm baseline",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/36f9c7c119e581e32ac4e2f4bb8b400c8f18660e\">36f9c7c</a>: chore: add package-lock.json",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -63,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
@@ -80,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"jira:\".",
-    "body": "My favorite commit message words are:\n\n1. jira: (used 48 times)\n2. update (used 39 times)\n3. fixes (used 38 times)\n4. version (used 37 times)\n5. added (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. jira: (used 48 times)\n2. version (used 39 times)\n3. update (used 39 times)\n4. fixes (used 38 times)\n5. added (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +87,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/tyrann0us/commit/2c74522dce387d8a16bb0890a04209d4b25da37c\">2c74522</a>\n- <a href=\"https://github.com/tyrann0us/tyrann0us/commit/644c9fbafb7d032344ed96b81fe3296496704dfc\">644c9fb</a>\n- <a href=\"https://github.com/tyrann0us/tyrann0us/commit/0b64710ad46ccc2fd532ac607d54350d7521bee0\">0b64710</a>\n- <a href=\"https://github.com/tyrann0us/tyrann0us/commit/eff28fe30cd75addffa595086ebd44d56694cfd6\">eff28fe</a>\n- <a href=\"https://github.com/tyrann0us/tyrann0us/commit/7344032b060605b7f69e1b02f21db317a58e72b3\">7344032</a>\n- <a href=\"https://github.com/tyrann0us/tyrann0us/commit/f28b338f5c7876e54b9908252dffbad4f3206b0d\">f28b338</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/.github/commit/2c74522dce387d8a16bb0890a04209d4b25da37c\">2c74522</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/644c9fbafb7d032344ed96b81fe3296496704dfc\">644c9fb</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/0b64710ad46ccc2fd532ac607d54350d7521bee0\">0b64710</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/eff28fe30cd75addffa595086ebd44d56694cfd6\">eff28fe</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/7344032b060605b7f69e1b02f21db317a58e72b3\">7344032</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/f28b338f5c7876e54b9908252dffbad4f3206b0d\">f28b338</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -124,5 +117,68 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/postmanlabs/postman-app-support/issues/5294#issuecomment-446903374\">46 👍</a>\n* <a href=\"https://github.com/fullcalendar/fullcalendar/issues/2919#issuecomment-273723251\">32 👍</a>\n* <a href=\"https://github.com/kenwheeler/slick/issues/2594#issuecomment-259414866\">18 👍</a>\n* <a href=\"https://github.com/kenwheeler/slick/issues/974#issuecomment-250088735\">14 👍</a>\n* <a href=\"https://github.com/actions/runner-images/issues/1924#issuecomment-719628330\">12 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to My Badges!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/137\">#137</a>: Add support for `.github`-based profiles",
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/nabtron/clearboth/issues/3\">#3</a>: Switch from shortcode to TinyMCE button\n- <a href=\"https://github.com/TimPerry/acf-post-type-selector/issues/19\">#19</a>: Transfer ownership?",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/inpsyde/wp-translation-downloader/issues/33\">#33</a>: [Feature Request]: Support deployment/infrastructure-related `composer.json` file",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/e2b/wordpress-hyphenator/issues/4\">#4</a>: Project still maintained?\n- <a href=\"https://github.com/newsletter2go/newsletter2go-wordpress-plugin/issues/9\">#9</a>: Current build process makes it impossible to install as Composer package\n- <a href=\"https://github.com/pelmered/composer-wp-language-updater/issues/8\">#8</a>: Don't use Guzzle to download translations\n- <a href=\"https://github.com/trewknowledge/GDPR/issues/202\">#202</a>: Add consent status\n- <a href=\"https://github.com/humanmade/page-for-post-type/issues/14\">#14</a>: Shows custom posts archive in selected page instead page content",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "old-issue-4",
+    "tier": 4,
+    "desc": "I closed an issue that was open for 4 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/daronspence/acf-widgets/issues/25\">#25</a>: Clone field support\n- <a href=\"https://github.com/geordyjames/google-Invisible-reCAPTCHA/issues/4\">#4</a>: Add Composer support",
+    "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
+  },
+  {
+    "id": "old-issue-5",
+    "tier": 5,
+    "desc": "I closed an issue that was open for 5 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/tpeigne/simpleresponsivetheme/issues/51\">#51</a>: Compatibility with PrestaShop >= 1.6?\n- <a href=\"https://github.com/codyhouse/page-scroll-effects/issues/2\">#2</a>: Add callback functions/events to be listened to in other scripts\n- <a href=\"https://github.com/codyhouse/page-scroll-effects/issues/3\">#3</a>: SCSS: Is Bourbon necessary?\n- <a href=\"https://github.com/mizansyed/wdImageStax/issues/2\">#2</a>: Allow multiple stacks on same page\n- <a href=\"https://github.com/mizansyed/wdImageStax/issues/1\">#1</a>: Make CSS generic and move to root folder",
+    "image": "https://my-badges.github.io/my-badges/old-issue-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Common/commit/19f4c9771284f216ade02cadb013520fe4edf660\">19f4c97</a>\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/50eeb3eac54166cc55736ec2fd5bfdf85842829b\">50eeb3e</a>\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium/commit/1bab390abc977bcc17db0a1ea764dc0b635e6640\">1bab390</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/67eff9091a434a33bab2c371fbb7b7b958387e59\">67eff90</a>\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium/commit/656b32ef8cd13ba3f1405067dc44550ca4758408\">656b32e</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
