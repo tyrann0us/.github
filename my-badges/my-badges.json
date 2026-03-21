@@ -72,8 +72,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"jira:\".",
-    "body": "My favorite commit message words are:\n\n1. jira: (used 48 times)\n2. bump (used 46 times)\n3. version (used 39 times)\n4. update (used 39 times)\n5. fixes (used 38 times)",
+    "desc": "My favorite word is \"bump\".",
+    "body": "My favorite commit message words are:\n\n1. bump (used 50 times)\n2. jira: (used 48 times)\n3. version (used 39 times)\n4. update (used 39 times)\n5. fixes (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
