@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. bump (used 50 times)
+1. bump (used 54 times)
 2. jira: (used 48 times)
-3. version (used 39 times)
-4. update (used 39 times)
-5. fixes (used 38 times)
+3. merge (used 40 times)
+4. update (used 40 times)
+5. version (used 39 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

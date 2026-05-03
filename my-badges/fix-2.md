@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/39b08dc04bc1c58584abfa1c34d52942e72830cd">39b08dc</a>: fix: fix README.md
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/6157893ed3f98dbaf4c38e1f28570608f651078f">6157893</a>: fix: fix CODEOWNERS
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/d79772e16de6f2938feed997fd52c2205d1b5a8c">d79772e</a>: fix: update stubs and `IIIFFile`
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/eab4a13483e61a82f183d894f8bd365531b32df7">eab4a13</a>: fix: use namespaced title class
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
