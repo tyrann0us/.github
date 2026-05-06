@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/76d09b9ac0d2c7cf398952da0830a56baf8dd556">76d09b9</a>: chore: silence `phpcs` pending a full refactor
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/c2a4a594ab422e78b2049328191d172449041db2">c2a4a59</a>: chore: correct source statement
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -45,7 +45,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/76d09b9ac0d2c7cf398952da0830a56baf8dd556\">76d09b9</a>: chore: silence `phpcs` pending a full refactor",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/c2a4a594ab422e78b2049328191d172449041db2\">c2a4a59</a>: chore: correct source statement",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"bump\".",
-    "body": "My favorite commit message words are:\n\n1. bump (used 54 times)\n2. jira: (used 48 times)\n3. merge (used 41 times)\n4. update (used 40 times)\n5. version (used 39 times)",
+    "body": "My favorite commit message words are:\n\n1. bump (used 54 times)\n2. jira: (used 48 times)\n3. merge (used 42 times)\n4. update (used 42 times)\n5. version (used 39 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/.github/commit/2c74522dce387d8a16bb0890a04209d4b25da37c\">2c74522</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/644c9fbafb7d032344ed96b81fe3296496704dfc\">644c9fb</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/0b64710ad46ccc2fd532ac607d54350d7521bee0\">0b64710</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/eff28fe30cd75addffa595086ebd44d56694cfd6\">eff28fe</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/7344032b060605b7f69e1b02f21db317a58e72b3\">7344032</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/f28b338f5c7876e54b9908252dffbad4f3206b0d\">f28b338</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/559af54aa5e169a0bcdd60c14cfc4c10c94f2413\">559af54</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/ee01c31b38837e31bcc8da2f3c309baafcc74289\">ee01c31</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/c2a4a594ab422e78b2049328191d172449041db2\">c2a4a59</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/81c1cb06987614d54d101c80ce7c361ba67a1c43\">81c1cb0</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/086e9e5aa1252f6d185b43e994bd2160f8ace892\">086e9e5</a>\n- <a href=\"https://github.com/tyrann0us/.github/commit/2c74522dce387d8a16bb0890a04209d4b25da37c\">2c74522</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
