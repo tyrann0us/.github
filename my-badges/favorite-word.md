@@ -6,7 +6,7 @@ My favorite commit message words are:
 
 1. bump (used 54 times)
 2. jira: (used 48 times)
-3. merge (used 44 times)
+3. merge (used 45 times)
 4. update (used 42 times)
 5. version (used 39 times)
 
