@@ -10,7 +10,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/ba97be3951588afad5138c1fef167f6dafc154fc\">ba97be3</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/36fe07828d825b84c128cfeded8bfa0191946829\">36fe078</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/d984727bb9adff5821ef36ebfbe8ac7fe7b8036b\">d984727</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/3b25461c7f7d656e2c25f26d2aa4832cb53b996e\">3b25461</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/340d1b5a9b4c19f72c608596842c354f3feb8afb\">340d1b5</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/26526bd78ab3c3c50787c2bb1739ac8359750c5a\">26526bd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/c8f2efecd311f16b011483dab3f6648f4b958d86\">c8f2efe</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/ba97be3951588afad5138c1fef167f6dafc154fc\">ba97be3</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/36fe07828d825b84c128cfeded8bfa0191946829\">36fe078</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/d984727bb9adff5821ef36ebfbe8ac7fe7b8036b\">d984727</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/3b25461c7f7d656e2c25f26d2aa4832cb53b996e\">3b25461</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/340d1b5a9b4c19f72c608596842c354f3feb8afb\">340d1b5</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"bump\".",
-    "body": "My favorite commit message words are:\n\n1. bump (used 54 times)\n2. jira: (used 48 times)\n3. merge (used 45 times)\n4. update (used 42 times)\n5. version (used 39 times)",
+    "body": "My favorite commit message words are:\n\n1. bump (used 56 times)\n2. jira: (used 48 times)\n3. merge (used 46 times)\n4. update (used 42 times)\n5. version (used 39 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
