@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/RRZE-Webteam/FAU-Studium-Common/commit/6e955dec1396c8bf1616666a8b3d8b983a87c990">6e955de</a>: fix: add missing translations
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/62d64b8a249eef862e8e12e938aa2b9f1141e4a6">62d64b8</a>: fix: exclude (S)CSS files
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/defea02bec8ea3bd66016c1975e7b4ecb49505e7">defea02</a>: fix: commit missing `eslint.config.cjs`
 
-These were forgotten in #6.
-- <a href="https://github.com/RRZE-Webteam/FAU-Studium-Common/commit/810b882f6141458af43ed9ad0bf7a677e6f11380">810b882</a>: fix: update translation files
-- <a href="https://github.com/RRZE-Webteam/FAU-Studium-Common/commit/2964599ae5f1fe090626e702d31b867c4ca7baf6">2964599</a>: fix: remove obsolete files
+Also, run `fixpack` on `package.json`.
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/3ee4deec01f771fc10e6c096342e245f9638ab38">3ee4dee</a>: fix: commit missing `eslint.config.cjs`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
