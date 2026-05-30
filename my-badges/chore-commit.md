@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/6737aa69e9afcd282365c19bbffd765720f1ba2b">6737aa6</a>: chore: remove duplicate provider ID from KNOWN_PROVIDER_IDS
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/6b2758ae4b7e0220ec38dcf9f9e52279012bebd0">6b2758a</a>: chore: run Codecov snapshot uploads on push to `main`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

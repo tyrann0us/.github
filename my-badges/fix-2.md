@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/d79772e16de6f2938feed997fd52c2205d1b5a8c">d79772e</a>: fix: update stubs and `IIIFFile`
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/eab4a13483e61a82f183d894f8bd365531b32df7">eab4a13</a>: fix: use namespaced title class
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/2b7a96b288be2de04ad8f1b58999fddc8a499233">2b7a96b</a>: fix(ci): gate MW dev-deps install behind env var
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/f49aba55d6b36d2ead08d6f448984a5dea2efba5">f49aba5</a>: fix: fix Markdown errors, delete duplicate GHA workflow
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
