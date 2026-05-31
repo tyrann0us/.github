@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/6b2758ae4b7e0220ec38dcf9f9e52279012bebd0">6b2758a</a>: chore: run Codecov snapshot uploads on push to `main`
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/bc21f933f1bb3feae9570768093a3278f8c44904">bc21f93</a>: chore: update dependencies
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

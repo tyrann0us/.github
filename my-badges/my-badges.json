@@ -45,7 +45,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/6b2758ae4b7e0220ec38dcf9f9e52279012bebd0\">6b2758a</a>: chore: run Codecov snapshot uploads on push to `main`",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/bc21f933f1bb3feae9570768093a3278f8c44904\">bc21f93</a>: chore: update dependencies",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 58 times)\n2. bump (used 56 times)\n3. pull (used 48 times)\n4. request (used 48 times)\n5. jira: (used 48 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 61 times)\n2. bump (used 56 times)\n3. update (used 50 times)\n4. pull (used 49 times)\n5. request (used 49 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
