@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/bc21f933f1bb3feae9570768093a3278f8c44904">bc21f93</a>: chore: update dependencies
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/625dfb592a691a7669ddf563e85bed8966c724c0">625dfb5</a>: chore: remove dead code
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
