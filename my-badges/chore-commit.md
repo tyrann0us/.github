@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/tyrann0us/InstantIIIF/commit/625dfb592a691a7669ddf563e85bed8966c724c0">625dfb5</a>: chore: remove dead code
+- <a href="https://github.com/tyrann0us/InstantIIIF/commit/10e62b0437d7c54492f7bf8df276c3b26251ebba">10e62b0</a>: chore: bump version to 1.0.1
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
