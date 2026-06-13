@@ -5,7 +5,6 @@
 Issues:
 
 - <a href="https://github.com/daronspence/acf-widgets/issues/25">#25</a>: Clone field support
-- <a href="https://github.com/geordyjames/google-Invisible-reCAPTCHA/issues/4">#4</a>: Add Composer support
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

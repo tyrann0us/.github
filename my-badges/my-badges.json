@@ -150,14 +150,14 @@
     "id": "old-issue-4",
     "tier": 4,
     "desc": "I closed an issue that was open for 4 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/daronspence/acf-widgets/issues/25\">#25</a>: Clone field support\n- <a href=\"https://github.com/geordyjames/google-Invisible-reCAPTCHA/issues/4\">#4</a>: Add Composer support",
+    "body": "Issues:\n\n- <a href=\"https://github.com/daronspence/acf-widgets/issues/25\">#25</a>: Clone field support",
     "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
   },
   {
     "id": "old-issue-5",
     "tier": 5,
     "desc": "I closed an issue that was open for 5 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/tpeigne/simpleresponsivetheme/issues/51\">#51</a>: Compatibility with PrestaShop >= 1.6?\n- <a href=\"https://github.com/codyhouse/page-scroll-effects/issues/2\">#2</a>: Add callback functions/events to be listened to in other scripts\n- <a href=\"https://github.com/codyhouse/page-scroll-effects/issues/3\">#3</a>: SCSS: Is Bourbon necessary?\n- <a href=\"https://github.com/mizansyed/wdImageStax/issues/2\">#2</a>: Allow multiple stacks on same page\n- <a href=\"https://github.com/mizansyed/wdImageStax/issues/1\">#1</a>: Make CSS generic and move to root folder",
+    "body": "Issues:\n\n- <a href=\"https://github.com/tpeigne/simpleresponsivetheme/issues/51\">#51</a>: Compatibility with PrestaShop >= 1.6?\n- <a href=\"https://github.com/codyhouse/page-scroll-effects/issues/3\">#3</a>: SCSS: Is Bourbon necessary?\n- <a href=\"https://github.com/mizansyed/wdImageStax/issues/1\">#1</a>: Make CSS generic and move to root folder",
     "image": "https://my-badges.github.io/my-badges/old-issue-5.png"
   },
   {
