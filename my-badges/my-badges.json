@@ -1,52 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/tyrann0us/slick-slider/commit/a1d3e60e3739af82b4f9f3ea46daffdaf64f2ec2\"><strong>a</strong>1d3e60e3739af82b4f9f3ea46daffdaf64f2ec2</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/f49aba55d6b36d2ead08d6f448984a5dea2efba5\">f49aba5</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/6d08b301471e9d21f41ef1efafbd9f2c7186f934\">6d08b30</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/15e65fac7b9d2d99f1b8a449936d99011b940f7c\">15e65fa</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/6721cd85caf8b1a1a1186bd468587b555771f38e\">6721cd8</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/9b640e7a7c01d580fb3d1cb2f494ae9e88af78ab\">9b640e7</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/25ff0c78a80aa32f6be163a9cd1690bdaea0f19a\">25ff0c7</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/62babc70c07cd960a3348e7cf221f51d3c0b4f3e\">62babc7</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/slick-slider/commit/1a5a9238ac6e9e6cb1eaf5e1f95ea989d94e7c4c\">1a5a923</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/2b7a96b288be2de04ad8f1b58999fddc8a499233\">2b7a96b</a>: fix(ci): gate MW dev-deps install behind env var\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/f49aba55d6b36d2ead08d6f448984a5dea2efba5\">f49aba5</a>: fix: fix Markdown errors, delete duplicate GHA workflow",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/10e62b0437d7c54492f7bf8df276c3b26251ebba\">10e62b0</a>: chore: bump version to 1.0.1",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "covid-19",
@@ -70,13 +28,6 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 66 times)\n2. bump (used 65 times)\n3. pull (used 54 times)\n4. request (used 54 times)\n5. update (used 50 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
@@ -84,32 +35,11 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/43e2f15cd0d2d9f41665406cd10e101b1ae24b87\">43e2f15</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/2b7a96b288be2de04ad8f1b58999fddc8a499233\">2b7a96b</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/7a3d8798b5072faf279a295fc4aec8bbe0cad34a\">7a3d879</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/5f9983f525a3124a3b13cfdb79b626074cb009a1\">5f9983f</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/559af54aa5e169a0bcdd60c14cfc4c10c94f2413\">559af54</a>\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/ee01c31b38837e31bcc8da2f3c309baafcc74289\">ee01c31</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/62d64b8a249eef862e8e12e938aa2b9f1141e4a6\">62d64b8</a>: fix: exclude (S)CSS files\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/defea02bec8ea3bd66016c1975e7b4ecb49505e7\">defea02</a>: fix: commit missing `eslint.config.cjs`\n\nAlso, run `fixpack` on `package.json`.\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/3ee4deec01f771fc10e6c096342e245f9638ab38\">3ee4dee</a>: fix: commit missing `eslint.config.cjs`",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/slick-slider/commit/0b0714212eebcecbe8613ab117b20ad3c8b917c8\">0b07142</a>\n- <a href=\"https://github.com/tyrann0us/slick-slider/commit/a4efff1c4d6424ebce2d1b2ab6e56e3d5db0eae3\">a4efff1</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
     "id": "thumbs-up-10",
@@ -166,40 +96,5 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Common/commit/19f4c9771284f216ade02cadb013520fe4edf660\">19f4c97</a>\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/50eeb3eac54166cc55736ec2fd5bfdf85842829b\">50eeb3e</a>\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium/commit/1bab390abc977bcc17db0a1ea764dc0b635e6640\">1bab390</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium-Embed/commit/67eff9091a434a33bab2c371fbb7b7b958387e59\">67eff90</a>\n- <a href=\"https://github.com/RRZE-Webteam/FAU-Studium/commit/656b32ef8cd13ba3f1405067dc44550ca4758408\">656b32e</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/4445813897f49778f692f54a8b9a83f548ee059f\">4445813</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/ab8a504efbca6a2eabaaee2689546c8822a8661a\"><strong>ab</strong>8a504efbca6a2eabaaee2689546c8822a8661a</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "fix-6+",
-    "tier": 6,
-    "desc": "I did 9 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/7a286e9c27a0ba12d7d46f330c074d4cd35d8a57\">7a286e9</a>: fix: fix flaky test\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/dc9e65e4ecd716e6ab10d3381590b0342644533e\">dc9e65e</a>: fix: fix tests on GHA\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/cb4a87bb0bb9c4e07b236c7ce599398ca5b76f06\">cb4a87b</a>: fix: fix tests\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/2adecc5136957ea15d15f9a7b38958d2ecaa4cfc\">2adecc5</a>: fix: debug tests\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/ab8a504efbca6a2eabaaee2689546c8822a8661a\">ab8a504</a>: fix: debug tests\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/2846673ca14449926644adff38ae658a42665dc1\">2846673</a>: fix: fix Playwright tests\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/8e9a02fab1d6652a0eed9d46f9c217644cd18bf4\">8e9a02f</a>: fix: load skin\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/eb5f5514f4974a946905bffbf5045ccb34c6f68d\">eb5f551</a>: fix: fix database connection error\n- <a href=\"https://github.com/tyrann0us/InstantIIIF/commit/b7c619c22326f2d028f2cb7ff2896b5d07f4ba3f\">b7c619c</a>: fix: fix Docker healthcheck",
-    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   }
 ]
