@@ -96,5 +96,12 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/tyrann0us/schulmanager-api/pull/1\">#1</a>: Add reconstructed OpenAPI 3.1 description and docs site",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
